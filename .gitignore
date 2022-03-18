@@ -1,0 +1,4 @@
+node_modules
+*.rar
+package-lock.json
+.env
